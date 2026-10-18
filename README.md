@@ -2,6 +2,8 @@
 
 Website: https://homework.minimum.se
 
+Quiz: https://homework.minimum.se/webquiz/
+
 This repository contains a static website. Edit `index.html` or add HTML, CSS,
 JavaScript, and other assets in the repository root.
 
