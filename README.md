@@ -2,7 +2,10 @@
 
 Website: https://homework.minimum.se
 
-Quiz: https://homework.minimum.se/webquiz/
+Quiz: https://homework.minimum.se/planetjakten/
+
+Each quiz lives in its own folder. Add future quizzes in separate folders with
+an `index.html`, and link to them from the homepage.
 
 This repository contains a static website. Edit `index.html` or add HTML, CSS,
 JavaScript, and other assets in the repository root.
